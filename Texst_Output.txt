@@ -1,0 +1,45 @@
+
+Welcome to the students record program
+
+Main menu: 1 - Find a student 2 - Edit a student’s info
+using student ID 3 - Add a new student 4 - Remove a student
+
+
+Adding Students: Input: id: 123 name: Emy Wang gpa: 3.4 semester: 3
+Result: Student added 123 Emy Wang 3.4 3
+
+Add another? y
+
+Input: id: 124 name: Jimmy Clark gpa: 3.2 semester: 4 Result: Student
+added 124 Jimmy Clark 3.2 4
+
+Add another? yes
+
+Input: id: 125 name: John Doe gpa: 2.8 semester: 2 Result: Student added
+125 John Doe 2.8 2
+
+Add another? n
+
+Continue program? y
+
+Searching Students: Input: id: 123 Result: Student found 123 Emy Wang
+3.4
+
+Return to menu (-1)? -1
+
+Continue program? y
+
+Editing student name: Input: id: 123 new name: Sarah Wang Result:
+Name updated Student’s new name: Sarah Wang
+
+Return to menu (-1)? -1
+
+Continue program? y
+
+Removing Students: Input: id: 123 Result: Student removed
+
+Remove another? n
+
+Continue program? n
+
+END OF PROGRAM 
